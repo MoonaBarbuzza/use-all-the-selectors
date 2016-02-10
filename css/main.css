@@ -1,0 +1,80 @@
+body{
+ background-color:#fdf6e3;
+}
+
+header footer{
+font-size: 1.5rem;
+}
+
+nav li{
+font-family:sans-serif;
+ }
+
+mark{
+   background-color: #719e07;
+}
+
+h1{
+  text-transform: uppercase;
+
+}
+
+.wrapper{
+  background-color: #eee8d5;
+}
+
+h2{
+  color:#93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+ol li:first-child{
+  color:#719e47;
+}
+
+ul li:last-child{
+  background-color: #2694d8;
+}
+
+ol li:last-child{
+  color:#2aa198;
+}
+
+.dfn p + strong {
+  color:#fff;
+}
+
+html > mark{
+   background-color: #719e07;
+}
+
+a[rel="external"] {
+  background-color: #2694d8;
+}
+
+.types li:nth-child(odd){
+  background-color: #657ba3;
+}
+
+.types li:nth-child(even){
+  background-color:  #586e75;
+}
+
+.types li:nth-child(3){
+  background-color: #d04b16;
+}
+
+.types li:nth-child(6){
+  background-color: #d04b16;
+}
+
+.types li:nth-child(9){
+  background-color: #d04b16;
+}
+
+.types li:nth-child(12){
+  background-color: #d04b16;
+}
